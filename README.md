@@ -1,3 +1,6 @@
+TODO - include database into source. server=(localdb)\\ProjectsV13;Database=DutchTreatDb
+
+
 echo "# DutchTreat" >> README.md
 
 git init
